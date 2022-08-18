@@ -11,6 +11,6 @@
 - To do: 🦾
 
   * Why We Sleep - by Matthew Walker
-  * The Righteous Mind: Why Good People are Divided by Religion and Politics – by Johnathan Haidt
+  * The Righteous Mind: Why Good People are Divided by Politics and Religion – by Johnathan Haidt
   * The Brain that Changes Itself - by Norman Doidge
   
